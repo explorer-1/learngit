@@ -1,2 +1,3 @@
-git is a distribute version control system
+git is a distributed version control system
 git is free software
+i love git
